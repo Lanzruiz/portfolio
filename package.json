@@ -1,0 +1,9 @@
+{
+  "name": "Lanzruiz",
+  "version": "1.0.0",
+  "description": "ReactJs Application for Lanz Ruiz Portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/Lanzruiz/portfolio.git",
+  "author": "Lanz Ruiz",
+  "license": "MIT"
+}
